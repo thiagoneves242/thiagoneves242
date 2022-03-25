@@ -7,9 +7,6 @@
 <body>
     <div>
         <h3>
-            🔭 I’m currently working on em fase de desenvolvimento
-        </h3>
-        <h3>
             🌱 I’m currently learning python e mysql
         </h3>
         <h3>
