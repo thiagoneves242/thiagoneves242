@@ -6,7 +6,6 @@
 - 💬 Ask me about linux power shell
 - 📫 How to reach me: thiagoneves242@gmail.com, whatsapp:61994166526
 - 😄 Pronouns: ele/dele
-
 <div>
-https://github-readme-stats.vercel.app/api/top-langs/?username={https://github.com/thiagoneves242}&theme=blue-green
+    https://github-readme-stats.vercel.app/api/top-langs/?username={https://github.com/thiagoneves242}&theme=blue-green
 </div>
