@@ -4,16 +4,23 @@
     </head>
 <body>
     <div>
-        <h1> Olá, seja muito Bem-Vindo(a) ao Meu Perfil 😁 </h1> 
+        <h1 align="center"> Olá,<br/> seja muito Bem-Vindo(a) ao Meu Perfil 😁 </h1> 
         <div>
-            <h2>
+            <h3 align="right">
                 <p>
-                   Sou uma pessoa que gosta de trabalha em equipe .<br>  
+                    Me relaciono bem quando se trata em trabalho de equipe. 
                 </p>
                 <p>
-                      Desenvolvedor em front-end e back-end.<br> Amo programar, e nunca tirarei as mãos do teclado
+                    Estou me formando em TSI-Tecnólogo de Sistemas para Internet.
                 </p>
-            </h2>
+                <p>
+                    gosto de encarar desafios e obstáculos. 
+                </p>
+                <p>
+                    Já participei de vários projetos com tecnologias Python, HTML5, Css, javaScript, Java. 
+                </p><br/>
+                    EU amo programar, por isso nunca tirarei as mãos do teclado!!❤️.️
+            </h3>
         </div><hr/>
     </div>
     <h3>Contatos::</h3> <h6><a>thiagoneves242@gmail.com</a></h6>
