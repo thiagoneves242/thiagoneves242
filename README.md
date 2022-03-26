@@ -45,12 +45,25 @@
 
 <div>
     <h1>
-        Afinidades 
+        Afinidades: 
     </h1>
+    <img alt="Windows" align="center" src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white"/>
+    <img alt="Windows" align="center" src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=importan"/>
+    <img alt="Windows" align="center" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/>
+    <img alt="Windows" align="center" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+    <img alt="Windows" align="center" src="https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white"/>
+</div>
+
+<div>
+    <h2>
+        Sistema Operacional que mais uso:
+    </h2>
     <img alt="linux" align="center" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
     <img alt="Windows" align="center" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 </div>
+
 <hr/>
+
 <h3>
 Contribuição:
 </h3>
