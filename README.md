@@ -4,7 +4,7 @@
     </head>
 <body>
     <div>
-        <h1 align="center"> Olá, seja muito Bem-Vindo ao Meu Perfil 😃 </h1>
+        <h1> Olá, seja muito Bem-Vindo ao Meu Perfil 😃 </h1>
         <div>
             <h2>
                 <p>
