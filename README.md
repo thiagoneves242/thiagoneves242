@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html>
 <head>
     
@@ -28,7 +29,7 @@
 
 ![Thiago neves GitHub stats](https://github-readme-stats.vercel.app/api?username=ThiagoNeves&show_icons=true&theme=dark)
 <br/>
-![thiago neves Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoneves&theme=dark)
+![thiago neves Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoneves242&theme=dark)
 <h1>Habilidades</h1>
 
 <div style="display: inline_block"><br/>
