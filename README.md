@@ -1,13 +1,8 @@
 <!DOCTYPE html>
 <html>
-<head>
-    <style>
-        body{
-            background-color: blue;
-        }
-    </style>
-</head>
-<body>
+    <head>
+    </head>
+<body bgcolor="#D3D3D3">
     <div>
         <h1 align="center"> Olá, seja muito Bem-Vindo ao MEU PERFIL 😃 </h1>
         <div>
