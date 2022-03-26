@@ -5,6 +5,17 @@
 <body>
     <div>
         <h1> OLÁ, TUDO BEM? ESTE É O MEU PERFIL😃 </h1>
+        <div>
+            <h2 align="center">
+                        Sobre mim!!
+                        <p>
+                            🔭 I’m currently working on em fase de desenvolvimento
+                            🌱 I’m currently learning python e mysql
+                            👯 I’m looking to collaborate on mine projetos em python
+                            🤔 I’m looking for help with formas,planejamentos e enganjamentos na área de TI
+                        </p>
+            </h2>
+        </div>
     </div><hr/>
     <h2>contato</h2> <h6>thiagoneves242@gmail.com</h6>
 
@@ -38,14 +49,7 @@
     <img alt="linux-Ubuntu" align="center" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
     <img alt="Windows" align="center" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
     <img alt="linux-mint" align="center" src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white"/>
-</div><br/>
-
-<div><hr>
-    <h2>
-        um pouco sobre mim 
-    </h2>
-</div><br/>
-
+</div>
 <h3><hr/>
     Codar é vida cara 😍!!!
 </h3>
