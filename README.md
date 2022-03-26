@@ -31,7 +31,9 @@
 ![thiago neves Linguagens Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoneves242&theme=dark)
 
 <hr>
-<h1>Habilidades:</h1>
+    <h3>
+        Habilidades::
+    </h3>
 
 <div style="display: inline_block"><br/>
     <img alt="HTML5" align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -43,10 +45,10 @@
     <img alt="Gimp" align="center" src="https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white"/>
 </div>
 
-<div style="display: inline_block"><br/>
-    <h1>
-        Afinidades: 
-    </h1>
+<div style="display:: inline_block"><br/>
+    <h3>
+        Afinidades:: 
+    </h3>
     <img alt="replit" align="center" src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white"/>
     <img alt="sublime" align="center" src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=importan"/>
     <img alt="pycharm" align="center" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/>
@@ -55,9 +57,9 @@
 </div>
 
 <div style="display: inline_block"><br/>
-    <h1>
-        S.O que mais uso no cotidiano:
-    </h1>
+    <h3>
+        S.O que mais uso no cotidiano::
+    </h3>
     <img alt="linux" align="center" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
     <img alt="Windows" align="center" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 </div>
@@ -65,7 +67,7 @@
 <hr/>
 
 <h3>
-Contribuição:
+Contribuição::
 </h3>
 
 ![thiago neves Linguagens Usadas](https://activity-graph.herokuapp.com/graph?username=thiagoneves242&theme=dracula)
