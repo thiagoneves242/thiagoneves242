@@ -3,10 +3,9 @@
     <head>
     </head>
 <body>
-    <div>
         <h1 align="center"> Olá,<br/> seja muito Bem-Vindo(a) ao Meu Perfil 😁 </h1> 
-        <div>
-            <h3 align="right">
+        <table width="200px" border="1">
+            <h3 style="text-align">
                 <p>
                     Me relaciono bem quando se trata em trabalho de equipe. 
                 </p>
@@ -18,11 +17,10 @@
                 </p>
                 <p>
                     Já participei de vários projetos com tecnologias Python, HTML5, Css, javaScript, Java. 
-                </p><br/>
+                </p>
                     EU amo programar, por isso nunca tirarei as mãos do teclado!!❤️.️
             </h3>
-        </div><hr/>
-    </div>
+        </table>
     <h3>Contatos::</h3> <h6><a>thiagoneves242@gmail.com</a></h6>
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/)
