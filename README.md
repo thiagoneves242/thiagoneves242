@@ -3,9 +3,9 @@
     <head>
     </head>
 <body>
-        <h1 align="center"> Olá,<br/> seja muito Bem-Vindo(a) ao Meu Perfil 😁 </h1> 
-        <table width="200px" border="1">
-            <h3 style="text-align">
+        <h1 align="center">Seja muito Bem-Vindo(a) ao Meu Perfil 😁 </h1> 
+        <table width="200px" border="2">
+            <h3>
                 <p>
                     Me relaciono bem quando se trata em trabalho de equipe. 
                 </p>
