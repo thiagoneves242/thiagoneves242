@@ -29,16 +29,17 @@
     <img alt="HTML5" align="center" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
     <img alt="HTML5" align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
     <img alt="HTML5" align="center" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-</div><br/>
+</div>
 
-<div><hr/>
+<div>
     <h1>
-        meus Ambientes Operacionais 
+        Familiaridades com Ambientes Operacionais 
     </h1>
     <img alt="linux-Ubuntu" align="center" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
     <img alt="Windows" align="center" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
     <img alt="linux-mint" align="center" src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white"/>
 </div><br/>
+
 <div><hr>
     <h2>
         um pouco sobre mim 
