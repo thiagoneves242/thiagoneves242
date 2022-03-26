@@ -11,7 +11,7 @@
                    Sou uma pessoa que gosta de trabalha em equipe .<br>  
                 </p>
                 <p>
-                      Desenvolvedor em front-end e back-end.<br> Amo programar, e nunca tirarei as mãos do teclado
+                      Desenvolvedor em front-end e back-end.<br> Amo programar nunca tirarei as mãos do teclado
                 </p>
             </h2>
         </div><hr/>
@@ -26,7 +26,7 @@
     </h5> [![Contador de Visitas](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhttps://github.com/thiagoneves2421212%2Fhit-counter)]()
     <hr>
 
-![Thiago neves GitHub stats](https://github-readme-stats.vercel.app/api?username=ThiagoNeves&show_icons=true&theme=dark)
+![Thiago neves GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagoneves242&theme=dark)
 <br/>
 ![thiago neves Linguagens Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoneves242&theme=dark)
 
