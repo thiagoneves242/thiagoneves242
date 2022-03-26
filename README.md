@@ -1,14 +1,19 @@
 <!DOCTYPE html>
 <html>
 <head>
-    
 </head>
 <body>
     <div>
         <h1> OLÁ, TUDO BEM? ESTE É O MEU PERFIL😃 </h1>
-        <p></p>
-    </div>
-    <hr>
+    </div><hr/>
+    <h2>contato</h2> <h6>thiagoneves242@gmail.com</h6>
+
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-pereira-neves-180778156/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thiagoneves242/)
+
+
+   <hr>
 
 ![Thiago neves GitHub stats](https://github-readme-stats.vercel.app/api?username=ThiagoNeves&show_icons=true&theme=dark)
 <br/>
@@ -25,8 +30,23 @@
     <img alt="HTML5" align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
     <img alt="HTML5" align="center" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div><br/>
-<h3>
-    Codar é vida!!!
+
+<div><hr/>
+    <h1>
+        meus Ambientes Operacionais 
+    </h1>
+    <img alt="linux-Ubuntu" align="center" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+    <img alt="Windows" align="center" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+    <img alt="linux-mint" align="center" src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white"/>
+</div><br/>
+<div><hr>
+    <h2>
+        um pouco sobre mim 
+    </h2>
+</div><br/>
+
+<h3><hr/>
+    Codar é vida cara 😍!!!
 </h3>
 </body>
 </html>
