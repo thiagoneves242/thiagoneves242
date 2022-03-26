@@ -4,15 +4,15 @@
     </head>
 <body>
     <div>
-        <h1 align="center"> Olá, seja muito Bem-Vindo ao MEU PERFIL 😃 </h1>
+        <h1 align="center"> Olá, seja muito Bem-Vindo ao Meu Perfil 😃 </h1>
         <div>
             <h2>
-                    <p>
-                       Sou uma pessoa que gosta de trabalha em equipe .<br>  
-                    </p>
-                    <p>
-                          Desenvolvedor em front-end e back-end.<br> Amo programar nunca tirarei as mãos do teclado
-                    </p>
+                <p>
+                   Sou uma pessoa que gosta de trabalha em equipe .<br>  
+                </p>
+                <p>
+                      Desenvolvedor em front-end e back-end.<br> Amo programar nunca tirarei as mãos do teclado
+                </p>
             </h2>
         </div><hr/>
     </div>
