@@ -4,12 +4,15 @@
 </head>
 <body>
     <div>
-        <h1> OLÁ, TUDO BEM? ESTE É O MEU PERFIL😃 </h1>
+        <h1 align="center"> Olá, seja muito Bem-Vindo ao MEU PERFIL 😃 </h1>
         <div>
-            <h2 align="center">
+            <h2>
                         Sobre mim!!
                         <p>
-                            ......................
+                            🔭 I’m currently working on em fase de desenvolvimento
+                            🌱 I’m currently learning python e mysql
+                            👯 I’m looking to collaborate on mine projetos em python
+                            🤔 I’m looking for help with formas,planejamentos e enganjamentos na área de TI
                         </p>
             </h2>
         </div>
