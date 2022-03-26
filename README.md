@@ -4,14 +4,12 @@
     </head>
 <body>
     <h1 align="center"> Olá, seja muito Bem-Vindo ao MEU PERFIL 😃 </h1>
-    <div>
             <h2>
-                        Sobre mim!!
-                        <p>
-                            <---------------------->
-                        </p>
+                    Sobre mim!!
+                    <p>
+                        <---------------------->
+                    </p>
             </h2>
-    </div>
     <h2>contato</h2> <h6>thiagoneves242@gmail.com</h6>
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/)
