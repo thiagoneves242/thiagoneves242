@@ -40,6 +40,8 @@
     <img alt="HTML5" align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
     <img alt="HTML5" align="center" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div><br/>
-Codar é vida!!! 
+<p>
+    Codar é vida!!!
+</p>
 </body>
 </html>
