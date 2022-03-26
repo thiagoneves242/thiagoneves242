@@ -9,10 +9,7 @@
             <h2 align="center">
                         Sobre mim!!
                         <p>
-                            🔭 I’m currently working on em fase de desenvolvimento
-                            🌱 I’m currently learning python e mysql
-                            👯 I’m looking to collaborate on mine projetos em python
-                            🤔 I’m looking for help with formas,planejamentos e enganjamentos na área de TI
+                            ......................
                         </p>
             </h2>
         </div>
