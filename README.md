@@ -21,12 +21,10 @@
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-pereira-neves-180778156/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thiagoneves242/) <br>
-    <h3>
-        visitantes
-    </h3>
-[![Contador de Visitas](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhttps://github.com/thiagoneves2421212%2Fhit-counter)]()
-
-   <hr>
+    <h5>
+        visitantes:
+    </h5> [![Contador de Visitas](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhttps://github.com/thiagoneves2421212%2Fhit-counter)]()
+    <hr>
 
 ![Thiago neves GitHub stats](https://github-readme-stats.vercel.app/api?username=ThiagoNeves&show_icons=true&theme=dark)
 <br/>
