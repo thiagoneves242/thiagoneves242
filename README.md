@@ -25,11 +25,14 @@
         <h3>
             📫 How to reach me: thiagoneves242@gmail.com, whatsapp:61994166526
         </h3>
-    </div><hr>
+    </div>
+    <hr>
 
 ![Thiago neves GitHub stats](https://github-readme-stats.vercel.app/api?username=ThiagoNeves&show_icons=true&theme=dark)
 <br/>
 ![thiago neves Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoneves242&theme=dark)
+
+<hr>
 <h1>Habilidades</h1>
 
 <div style="display: inline_block"><br/>
