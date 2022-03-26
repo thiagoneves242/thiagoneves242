@@ -5,14 +5,12 @@
 <body>
     <div>
         <h1 align="center"> Olá, seja muito Bem-Vindo ao MEU PERFIL 😃 </h1>
-        <div>
             <h2>
                         Sobre mim!!
                         <p>
                             <---------------------->
                         </p>
             </h2>
-        </div>
     </div>
     <h2>contato</h2> <h6>thiagoneves242@gmail.com</h6>
 
