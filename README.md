@@ -16,8 +16,11 @@
                     gosto de encarar desafios e obstáculos. 
                 </p>
                 <p>
-                    Já participei de vários projetos com tecnologias Python, HTML5, Css, javaScript e Java. 
+                    Já participei de vários projetos com tecnologias Python, HTML5, Css, javaScript, Java. 
                 </p>
+                <p>
+                    Estou a Procura de uma oportunidade na Área do mercado de trabalho em tecnologia de programação.
+                </p><br/>
                     EU amo programar, por isso nunca tirarei as mãos do teclado!!❤️.️
             </h3>
         </table>
