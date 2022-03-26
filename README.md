@@ -28,12 +28,9 @@
 
    <hr>
 
-![Thiago neves GitHub stats](https://github-readme-stats.vercel.app/api?username=ThiagoNeves&show_icons=true&theme=darcula)
+![Thiago neves GitHub stats](https://github-readme-stats.vercel.app/api?username=ThiagoNeves&show_icons=true&theme=dark)
 <br/>
-![thiago neves Linguagens Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoneves242&theme=darcula)
-<br/>
-![thiago neves Linguagens Usadas](https://activity-graph.herokuapp.com/graph?username=thiagoneves242&theme=dracula)
-
+![thiago neves Linguagens Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoneves242&theme=dark)
 
 <hr>
 <h1>Habilidades</h1>
@@ -50,11 +47,17 @@
 
 <div>
     <h1>
-        Familiaridades com Ambientes Operacionais 
+        Afinidades 
     </h1>
-    <img alt="linux-Ubuntu" align="center" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+    <img alt="linux" align="center" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
     <img alt="Windows" align="center" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 </div>
+<hr/>
+<h3>
+Contribuição:
+</h3>
+
+![thiago neves Linguagens Usadas](https://activity-graph.herokuapp.com/graph?username=thiagoneves242&theme=dracula)
 
 <h3><hr/>
     Codar é vida cara 😍!!!
