@@ -31,7 +31,7 @@
 ![thiago neves Linguagens Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoneves242&theme=dark)
 
 <hr>
-<h1>Habilidades</h1>
+<h1>Habilidades:</h1>
 
 <div style="display: inline_block"><br/>
     <img alt="HTML5" align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -43,21 +43,21 @@
     <img alt="Gimp" align="center" src="https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white"/>
 </div>
 
-<div>
+<div style="display: inline_block"><br/>
     <h1>
         Afinidades: 
     </h1>
-    <img alt="Windows" align="center" src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white"/>
-    <img alt="Windows" align="center" src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=importan"/>
-    <img alt="Windows" align="center" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/>
-    <img alt="Windows" align="center" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
-    <img alt="Windows" align="center" src="https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white"/>
+    <img alt="replit" align="center" src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white"/>
+    <img alt="sublime" align="center" src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=importan"/>
+    <img alt="pycharm" align="center" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/>
+    <img alt="visual studio cold" align="center" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+    <img alt="apache netbeans" align="center" src="https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white"/>
 </div>
 
-<div>
-    <h2>
+<div style="display: inline_block"><br/>
+    <h1>
         Sistema Operacional que mais uso:
-    </h2>
+    </h1>
     <img alt="linux" align="center" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
     <img alt="Windows" align="center" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 </div>
