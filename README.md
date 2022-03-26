@@ -2,7 +2,7 @@
 <html>
     <head>
     </head>
-<body bgcolor="#D3D3D3">
+<body>
     <div>
         <h1 align="center"> Olá, seja muito Bem-Vindo ao MEU PERFIL 😃 </h1>
         <div>
@@ -12,7 +12,7 @@
                             <---------------------->
                         </p>
             </h2>
-        </div><hr/>
+        </div><hr color="black"/>
     </div>
     <h2>contato</h2> <h6>thiagoneves242@gmail.com</h6>
 
