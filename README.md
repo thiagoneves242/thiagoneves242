@@ -36,7 +36,7 @@
     <h3>
         Stats::
     </h3>
-![Thiago neves GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagoneves242&theme=dark)
+![Thiago neves GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagoneves242&show_icons=treu&theme=dark)
 <br/>
     <h3>
         Stats de Linguagens Usadas::
