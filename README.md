@@ -16,7 +16,7 @@
             </h2>
         </div><hr/>
     </div>
-    <h2>Contatos::</h2> <h6><a>thiagoneves242@gmail.com</a></h6>
+    <h3>Contatos::</h3> <h6><a>thiagoneves242@gmail.com</a></h6>
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-pereira-neves-180778156/)
