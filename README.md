@@ -28,11 +28,11 @@
 
    <hr>
 
-![Thiago neves GitHub stats](https://github-readme-stats.vercel.app/api?username=ThiagoNeves&show_icons=true&theme=dark)
+![Thiago neves GitHub stats](https://github-readme-stats.vercel.app/api?username=ThiagoNeves&show_icons=true&theme=darcula)
 <br/>
-![thiago neves Linguagens Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoneves242&theme=dark)
+![thiago neves Linguagens Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoneves242&theme=darcula)
 <br/>
-![thiago neves Linguagens Usadas](https://activity-graph.herokuapp.com/graph?username=thiagoneves242&theme=dark)
+![thiago neves Linguagens Usadas](https://activity-graph.herokuapp.com/graph?username=thiagoneves242&theme=dracula)
 
 
 <hr>
