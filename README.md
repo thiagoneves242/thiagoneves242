@@ -9,7 +9,10 @@
             <h2>
                         Sobre mim!!
                         <p>
-                            <---------------------->
+                           Sou uma pessoa que gosta de trabalha em equipe .<br>  
+                        </p>
+                        <p>
+                              Desenvolvedor em front-end e back-end.<br> Amo programar nunca tirarei as mãos do teclado
                         </p>
             </h2>
         </div><hr/>
@@ -50,4 +53,4 @@
     Codar é vida cara 😍!!!
 </h3>
 </body>
-</html>
+</html
