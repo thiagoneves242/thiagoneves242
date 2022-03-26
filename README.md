@@ -3,8 +3,8 @@
     <head>
     </head>
 <body>
+    <h1 align="center"> Olá, seja muito Bem-Vindo ao MEU PERFIL 😃 </h1>
     <div>
-        <h1 align="center"> Olá, seja muito Bem-Vindo ao MEU PERFIL 😃 </h1>
             <h2>
                         Sobre mim!!
                         <p>
