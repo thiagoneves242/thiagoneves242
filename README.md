@@ -12,7 +12,7 @@
                             <---------------------->
                         </p>
             </h2>
-        </div><hr color="black"/>
+        </div>
     </div>
     <h2>contato</h2> <h6>thiagoneves242@gmail.com</h6>
 
