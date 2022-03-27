@@ -33,17 +33,11 @@
         visitantes::
     </h5> [![Contador de Visitas](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhttps://github.com/thiagoneves2421212%2Fhit-counter)]()
     <hr>
-    <h3>
-        Stats::
-    </h3>
-![Thiago neves GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagoneves242&show_icons=treu&theme=dark)
-<br/>
-    <h3>
-        Stats de Linguagens Usadas::
-    </h3>
-![thiago neves Linguagens Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoneves242&theme=dark)
-
-<hr>
+    <table>
+        ![Thiago neves GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagoneves242&show_icons=treu&theme=dark)
+        ![thiago neves Linguagens Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoneves242&theme=dark)
+    </table>
+    <hr/>
     <h3>
         Habilidades::
     </h3>
