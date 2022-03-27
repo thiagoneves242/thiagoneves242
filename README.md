@@ -38,9 +38,6 @@
                 Stats::
             </h3>
         ![Thiago neves GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagoneves242&show_icons=treu&theme=dark)
-        <h3>
-            Stats de Linguagens Usadas::
-        </h3>
         ![thiago neves Linguagens Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoneves242&theme=dark)
     </table>
     <hr/>
